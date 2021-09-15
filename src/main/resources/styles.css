@@ -1,0 +1,13 @@
+.button-number{
+    -fx-background-color: #89043D;
+    -fx-text-fill: white;
+    -fx-font-size: 36px;
+    -fx-margin:5px;
+}
+
+.button-other{
+    -fx-background-color: #1C3041;
+    -fx-text-fill: white;
+    -fx-font-size: 36px;
+    -fx-margin:5px;
+}
